@@ -1,13 +1,13 @@
 {
   "recipes": [
     {
-      "prepTime": "7 Hrs",
-      "ingredients": "2 cups green moong beans\\n1 green chilly - chopped\\n½ inch ginger - chopped\\n¼cup chopped coriander leaves - optional\\nsalt as required",
-      "stepsGuide": "Firstly, pick and rinse the moong beans.\\nThen soak the moong beans overnight in enough water.\\nDrain and add the moong beans along with ginger, green chilies, coriander leaves and salt in a grinder jar.\\nAdd some water and grind into a smooth batter.\\nRemove the batter in a bowl or pan.\\n\\nOn a griddle or flat pan, spread a little oil or ghee.\\nWith a ladle, pour the dosa batter on the griddle and use the same spoon for spreading the moong dal dosa batter into a round shape.\\nPour some oil on the sides and in the center of the dosa.\\nFlip and cook both sides a couple of times till crisp and browned.\\nServe the moong dal dosa with upma and coconut chutney.",
+      "prepTime": "1 Min",
+      "ingredients": "泡面 1包\\n沸水 若干",
+      "stepsGuide": "（1）撕开泡面包装，下碗，下调味料\\n（2）倒入沸水\\n（3）盖上盖子，等待3分钟\\n（4）品尝\\n",
       "id": 1,
-      "title": "哈哈哈哈哈",
-      "cookingTime": "20 Mins",
-      "cover": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=862130758,1639628102&fm=26&gp=0.jpg",
+      "title": "泡面",
+      "cookingTime": "4 Mins",
+      "cover": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1794581603,597573986&fm=26&gp=0.jpg",
       "category": "breakfast"
     },
     {
